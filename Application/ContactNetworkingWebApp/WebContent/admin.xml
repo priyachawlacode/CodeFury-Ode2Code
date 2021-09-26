@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>  
+    <admin>  
+        <id>101</id>  
+        <name>John</name>  
+        <email>john12@gmail.com</email>  
+        <phone>3243543245</phone>  
+        <username>john@123</username>  
+        <password>john123</password>
+    </admin>  
+    <admin>  
+        <id>102</id>  
+        <name>admin</name>  
+        <email>admin@gmail.com</email>  
+        <phone>3243543245</phone>  
+        <username>admin</username>  
+        <password>admin1234</password>
+    </admin>
+  </class>
