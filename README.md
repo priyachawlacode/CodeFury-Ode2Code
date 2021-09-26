@@ -27,14 +27,13 @@ COMMONS-FILEUPLOAD-1.3
 # Credits
 
 Group Project - 
-Priya Chawla
-Aditi
-Abhay Tapadiya 
-Swagatika
-Abhishek Rajagopalan
-Vidhi Garg
-Poojan Soni
-Sarah Abbas Gazge
-Sharv Kulkarni
+Priya Chawla,
+Aditi,
+Abhay Tapadiya, 
+Swagatika,
+Abhishek Rajagopalan,
+Vidhi Garg,
+Poojan Soni,
+Sarah Abbas Gazge,
+Sharv Kulkarni,
 Shravya Reddy
-
