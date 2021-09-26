@@ -22,7 +22,7 @@ MY-SQL
 COMMONS-IO-1.3
 COMMONS-FILEUPLOAD-1.3
 
-# The User must not the application on any Browser for effiecient working.
+# The User must run the application on any Browser for effiecient working.
 
 # Credits
 
