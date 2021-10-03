@@ -1,0 +1,32 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+#about{
+  background-color: #f7f8f9;
+}
+.main-container{
+  /* Full height */
+  height: 80%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav-logo{
+  color: #FADA5E;
+}
+.nav-logo:hover{
+  color: red;
+}
+.btn-google {
+    color: #fff;
+    background-color: #689f38;
+    border-color: #689f38;
+}
+.btn-apple {
+    color: #fff;
+    background-color: #333;
+    border-color: #333;
+}
